@@ -45,7 +45,7 @@ body {
   border-top-right-radius: 0;
   text-align: left;
   position:relative;
-  left:13px;
+  /*left:13px;*/
 }
 .sr-only{
   text-align: left;
